@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Matheus Correa
 
-<!--
-**th3colosso/th3colosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Delphi Developer**  
+[LinkedIn Profile](https://www.linkedin.com/in/matcorrea/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Languages:** Delphi(7<->12), SQL(Oracle, PG, FB, SQLite, SQLServer), C#
+- **Experience:** Client/Server, API, RESTful services
+- **Projects:** [TogglHelper Repository](https://github.com/th3colosso/TogglHelper)
+
+---
+
+### 🙋‍♂️ About Me
+- Self-taught developer passionate about building solutions.
+- Friendly team player who values collaboration and clear communication.
+- Focused on delivering robust, reliable software.
+
+---
+
+### 🌱 What I Value
+- Learning new technologies and growing every day.
+- Teamwork and supporting others to achieve shared goals.
+- Maintaining a positive and productive work environment.
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/matcorrea/)
+- [GitHub](https://github.com/th3colosso)
+
+---
+
+Thanks for visiting my profile!  
