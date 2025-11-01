@@ -8,7 +8,7 @@
 ### 💻 Tech Stack
 - **Languages:** Delphi(7<->12), SQL(Oracle, PG, FB, SQLite, SQLServer), C#
 - **Experience:** Client/Server, API, RESTful services
-- **Projects:** [TogglHelper Repository](https://github.com/th3colosso/TogglHelper)
+- **Projects:** [TogglHelper Repository](https://github.com/th3colosso/TogglHelper) [YASalesApp](https://github.com/th3colosso/YASalesApp)
 
 ---
 
